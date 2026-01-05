@@ -21,7 +21,8 @@
 ## 📂 Projects
 🔹 **React Native Apps**  
 🔹 **E-commerce App**
-🔹 📸 Instagram Clone (Web)
+🔹 **Book Store (Web)
+🔹 ** Instagram Clone (Web)
 
 > Check my repositories to see my work 👇
 
