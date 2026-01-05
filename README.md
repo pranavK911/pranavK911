@@ -2,10 +2,8 @@
 
 🚀 React / React Native Developer  
 📱 Building modern web & mobile applications  
-🌍 Interested in UI, performance, and localization
 
 ---
-
 ## 🧑‍💻 About Me
 
 - 💡 Passionate about **JavaScript, React, and React Native**
@@ -20,17 +18,14 @@
 - **Frontend:** React, React Native, Expo
 - **State Management:** Context API, Redux (basic)
 - **Backend / Services:** Firebase
-- **Localization:** i18next, expo-localization
-- **Storage:** AsyncStorage, SecureStore
 - **Tools:** Git, GitHub, VS Code
 
 ---
 
 ## 📂 Projects
-
 🔹 **React Native Apps**  
-🔹 **Reusable UI Components**  
-🔹 **Firebase-integrated applications**
+🔹 **E-commerce App**
+🔹 📸 Instagram Clone (Web)
 
 > Check my repositories to see my work 👇
 
@@ -38,16 +33,13 @@
 
 ## 📫 Connect With Me
 
-- GitHub: [@pranvakumar](https://github.com/pranvakumar)
-- Email: your-email@example.com  
-- LinkedIn: your-linkedin-profile  
+-- GitHub: [@pranvakumar](https://github.com/pranvakumar)
 
----
+-- LinkedIn: [Pranav Kumar](https://www.linkedin.com/in/pranav-kumar-3930b9256/) 
 
 ## ⭐ Goals
 
 - Improve mobile app performance
-- Build scalable applications
 - Learn advanced backend & cloud integrations
 
 ---
