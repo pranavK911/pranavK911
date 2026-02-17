@@ -11,10 +11,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, React Native, Expo
+- **Frontend:** React, React Native,
 - **State Management:** Context API, Redux, Redux Toolkit
 - **Backend / Services:** Firebase
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code,Xcode
 
 ---
 
