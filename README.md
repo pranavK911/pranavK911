@@ -2,14 +2,20 @@
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://x.com/PranavK911" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="X" title="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  
+
   <a href="https://www.linkedin.com/in/pranav-kumar-3930b9256" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 <br/>
+## My Apps
+--
+Smart-ecommerce
+![SmartEcommerce App](https://raw.githubusercontent.com/pranavK911/pranavK911/main/Smart-ecom.png)
+
+[Download Smart E-Commerce App](https://expo.dev/accounts/pranavk911/projects/smartEcommerce/builds/83437418-d98b-430e-ac76-676e74e2e2a9)
 
 ## 🧑‍💻 About Me
 
