@@ -14,7 +14,7 @@
 
 ### Smart Ecommerce
 
-[Download SmartEcommerce App](https://expo.dev/accounts/pranavk911/projects/smartEcommerce/builds/83437418-d98b-430e-ac76-676e74e2e2a9)
+[Download App](https://expo.dev/accounts/pranavk911/projects/smartEcommerce/builds/83437418-d98b-430e-ac76-676e74e2e2a9)
 
 ![SmartEcommerce App](https://raw.githubusercontent.com/pranavK911/pranavK911/main/Smart-ecom.png)
 
