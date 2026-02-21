@@ -1,4 +1,4 @@
-# Hi, I'm Pranva
+# Hi, I'm Pranav Kumar
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://x.com/PranavK911" target="_blank">
@@ -10,7 +10,9 @@
   </a>
 </p>
 <br/>
+
 ## 🧑‍💻 About Me
+
 React & React Native Developer focused on building scalable web and mobile applications.
 
 ## 🛠️ Tools I Use
@@ -32,8 +34,7 @@ React & React Native Developer focused on building scalable web and mobile appli
 
 ---
 ## 📂 Projects
-🔹 **React Native Apps**  <br/>
-🔹 **E-commerce App**<br/>
+🔹 **E-commerce App** <br/>
 🔹 **Book Store (Web)
 
 Check my repositories to see my work 👇
