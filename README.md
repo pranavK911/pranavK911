@@ -1,8 +1,14 @@
-# 👋 Hi, I'm Pranva Kumar
+#Hi, I'm Pranva
 ## 🌐 Connect With Me
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PranavK911)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-kumar-3930b9256)
+<p align="left">
+  <a href="https://x.com/PranavK911" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="X" title="X"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/pranav-kumar-3930b9256" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+</p>
 <br/>
 🚀 React / React Native Developer  
 📱 Building modern web & mobile applications  
@@ -10,31 +16,30 @@
 ---
 ## 🧑‍💻 About Me
 
-- 💡 Passionate about **JavaScript, React, and React Native**
-- 🛠️ Love creating **reusable components** and clean UI
+React & React Native Developer focused on building scalable web and mobile applications.
 
 ## 🛠️ Tools I Use
 
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-
+<p align="left">
+  <img src="https://camo.githubusercontent.com/bebaf226d391e0211eaedf86fe6fdd8921f02940aab54386188507dc2033b330/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" width="40" height="40" alt="React" title="React"/>
+  <img src="https://camo.githubusercontent.com/bebaf226d391e0211eaedf86fe6fdd8921f02940aab54386188507dc2033b330/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742d6f726967696e616c2e737667" width="40" height="40" alt="React Native" title="React Native"/>
+  <img src="https://camo.githubusercontent.com/bebaf226d391e0211eaedf86fe6fdd8921f02940aab54386188507dc2033b330/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656475782f72656475782d6f726967696e616c2e737667" width="40" height="40" alt="Redux" title="Redux"/>
+  <img src="https://camo.githubusercontent.com/bebaf226d391e0211eaedf86fe6fdd8921f02940aab54386188507dc2033b330/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f66697265626173652f66697265626173652d706c61696e2e737667" width="40" height="40" alt="Firebase" title="Firebase"/>
+  <img src="https://camo.githubusercontent.com/bebaf226d391e0211eaedf86fe6fdd8921f02940aab54386188507dc2033b330/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" width="40" height="40" alt="Git" title="Git"/>
+  <img src="https://camo.githubusercontent.com/bebaf226d391e0211eaedf86fe6fdd8921f02940aab54386188507dc2033b330/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f78636f64652f78636f64652d6f726967696e616c2e737667" width="40" height="40" alt="Xcode" title="Xcode"/>
+</p>
 ---
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PranavK911&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
+
 ---
 ## 📂 Projects
 🔹 **React Native Apps**  
 🔹 **E-commerce App**
 🔹 **Book Store (Web)
-🔹 ** Instagram Clone (Web)
 
 > Check my repositories to see my work 👇
 
