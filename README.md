@@ -9,13 +9,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<br/>
-## My Apps
---
-Smart-ecommerce
-![SmartEcommerce App](https://raw.githubusercontent.com/pranavK911/pranavK911/main/Smart-ecom.png)
 
-[Download Smart E-Commerce App](https://expo.dev/accounts/pranavk911/projects/smartEcommerce/builds/83437418-d98b-430e-ac76-676e74e2e2a9)
+## My Apps
+
+### SmartEcommerce
+
+[Download SmartEcommerce App](https://expo.dev/accounts/pranavk911/projects/smartEcommerce/builds/83437418-d98b-430e-ac76-676e74e2e2a9)
+![SmartEcommerce App](https://raw.githubusercontent.com/pranavK911/pranavK911/main/Smart-ecom.png)
 
 ## 🧑‍💻 About Me
 
