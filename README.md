@@ -33,14 +33,14 @@ React & React Native Developer focused on building scalable web and mobile appli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40" alt="Xcode" title="Xcode"/>
 </p>
 
-
-
-<!-- <p align="start">
 🔥 GitHub Streak Stats
 ##🔥 GitHub Streak Stats
 
+ <p align="start">
+
+
   <img src="https://streak-stats.demolab.com?user=PranavK911&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p> -->
+</p> 
 
 ---
 ## 📂 Projects
