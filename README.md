@@ -35,14 +35,10 @@ React & React Native Developer focused on building scalable web and mobile appli
 
 ## 🔥 GitHub Streak Stats
 
-
-<!--
  <p align="start">
-
-
   <img src="https://streak-stats.demolab.com?user=PranavK911&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p> 
--->
+
 ---
 ## 📂 Projects
 🔹 **E-commerce App** <br/>
