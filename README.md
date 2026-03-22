@@ -18,7 +18,10 @@
 
 ![SmartEcommerce App](https://raw.githubusercontent.com/pranavK911/pranavK911/main/Smart-ecom.png)
 
-[Download App]
+
+### CodeChat
+
+<!--[Download App]-->
 
 ![CodeChat App](https://raw.githubusercontent.com/pranavK911/pranavK911/main/codechat.png)
 
