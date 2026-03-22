@@ -18,6 +18,10 @@
 
 ![SmartEcommerce App](https://raw.githubusercontent.com/pranavK911/pranavK911/main/Smart-ecom.png)
 
+[Download App]
+
+![CodeChat App](https://raw.githubusercontent.com/pranavK911/pranavK911/main/codechat.png)
+
 ## 🧑‍💻 About Me
 
 React & React Native Developer focused on building scalable web and mobile applications.
@@ -33,16 +37,18 @@ React & React Native Developer focused on building scalable web and mobile appli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40" alt="Xcode" title="Xcode"/>
 </p>
 
-## 🔥 GitHub Streak Stats
 
- <p align="start">
-  <img src="https://streak-stats.demolab.com?user=PranavK911&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p> 
+  <!-- ## 🔥 GitHub Streak Stats
+
+<p align="start">
+ <img src="https://streak-stats.demolab.com?user=PranavK911&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+</p> /> -->
 
 ---
 ## 📂 Projects
-🔹 **E-commerce App** <br/>
-🔹 **Book Store (Web)
+🔹 <b>E-commerce App</b> <br/>
+🔹 <b>CodeChat App</b> <br/>
+🔹 <b>Book Store (Web)</b>
 
 Check my repositories to see my work 👇
 
