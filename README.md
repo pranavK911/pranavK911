@@ -27,7 +27,7 @@
 
 ## 🧑‍💻 About Me
 
-React & React Native Developer focused on building scalable web and mobile applications.
+Passionate React & React Native Developer crafting scalable and high-performance applications for iOS and Android platforms.
 
 ## 🛠️ Tools I Use
 
@@ -38,6 +38,8 @@ React & React Native Developer focused on building scalable web and mobile appli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" title="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40" alt="Xcode" title="Xcode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleplay/googleplay-original.svg" width="40" height="40" alt="Google Play" title="Google Play Console"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" alt="App Store" title="Apple App Store"/>
 </p>
 
 
@@ -46,6 +48,9 @@ React & React Native Developer focused on building scalable web and mobile appli
 <p align="start">
  <img src="https://streak-stats.demolab.com?user=PranavK911&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
 </p> /> -->
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavK911&bg_color=0d1117&color=ffffff&line=00ffcc&point=ffffff&area=true&hide_border=true)](https://github.com/pranavK911)
+
 
 ---
 ## 📂 Projects
