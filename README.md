@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
- <a href="[https://your-portfolio-link.com](https://portfolio-pranav-git-main-pranav-kumars-projects-98e3b7cb.vercel.app/)" target="_blank" rel="noopener noreferrer">
+ <a href="https://portfolio-pranav-git-main-pranav-kumars-projects-98e3b7cb.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" 
     alt="Portfolio" 
