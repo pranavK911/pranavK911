@@ -50,12 +50,11 @@ Passionate React & React Native Developer crafting scalable and high-performance
 
 </p>
 
-
-  <!-- ## 🔥 GitHub Streak Stats
+ ## 🔥 GitHub Streak Stats
 
 <p align="start">
  <img src="https://streak-stats.demolab.com?user=PranavK911&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
-</p> /> -->
+</p> /> 
 
 
 ---
