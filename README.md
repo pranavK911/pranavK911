@@ -38,7 +38,7 @@ Passionate React & React Native Developer crafting scalable and high-performance
 
 ## 🛠️ Tools I Use
 
-<p align="left">
+ <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native" title="React Native"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" title="Redux"/>
@@ -48,7 +48,7 @@ Passionate React & React Native Developer crafting scalable and high-performance
   <img src="https://play-lh.googleusercontent.com/4_RW0mQ5mJhGGJVydTlQsQ0pnqAYq9UoTVm2_gElrgRM13Q02w43HPgYVaMFy4b4smmF" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/512px-App_Store_%28iOS%29.svg.png" width="40"/>
 
-</p>
+</div>
 
  ## 🔥 GitHub Streak Stats
 
