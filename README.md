@@ -50,6 +50,9 @@ Passionate React & React Native Developer crafting scalable and high-performance
 </p> 
 
 
+  ## 📈 Contribution Graph
+  
+![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavK911&theme=tokyo-night)
 ---
 ## 📂 Projects
 🔹 <b>E-commerce App</b> <br/>
