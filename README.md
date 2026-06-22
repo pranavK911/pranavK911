@@ -20,7 +20,7 @@
 ## My Apps
 
 ### Smart Ecommerce
-[Download App](https://github.com/pranavK911/portfolioPranav/blob/main/src/apk/se.apk)
+[Download App](https://raw.githubusercontent.com/pranavK911/pranavK911/main/src/apk/se.apk)
 
 ![SmartEcommerce App](https://raw.githubusercontent.com/pranavK911/pranavK911/main/assets/Smart-ecom.png)
 
